@@ -9,7 +9,7 @@ An AI-powered application that transcribes, analyzes, and summarizes YouTube vid
 - **Intelligent Analysis**: Extracts key topics and performs sentiment analysis
 - **Interactive Visualizations**: Displays keyword frequency and sentiment charts
 - **Agentic Workflow**: Multi-stage processing with error handling and progress tracking
-
+![Demo SVG](streamlit-demo.svg)
 ## Quick Start
 
 1. **Install Dependencies**
